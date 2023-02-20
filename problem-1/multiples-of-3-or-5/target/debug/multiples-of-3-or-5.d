@@ -1,1 +1,0 @@
-/home/jakob/Documents/code-courses/project-euler/problem-1/multiples-of-3-or-5/target/debug/multiples-of-3-or-5: /home/jakob/Documents/code-courses/project-euler/problem-1/multiples-of-3-or-5/src/main.rs
