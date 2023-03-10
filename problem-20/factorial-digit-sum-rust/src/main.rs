@@ -15,7 +15,7 @@ fn main() {
 }
 
 fn factorial(num: usize) -> Vec<usize> {
-    let size = num*num; // Estimate using log of Sterling's formula: 1/2 log(2pi n) + n log(n/e)
+    let size = num*num; // Estimate using log of Stirling's formula: 1/2 log(2pi n) + n log(n/e)
     let mut vec = vec![0;size];
     vec[0] += 1;
     if num < 2 {
